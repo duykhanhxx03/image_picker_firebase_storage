@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "977232070432",
+    "firebase_url": "https://flutter-prep-31b9e-default-rtdb.firebaseio.com",
+    "project_id": "flutter-prep-31b9e",
+    "storage_bucket": "flutter-prep-31b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977232070432:android:4e42cf2a7c6f6f00aff945",
+        "android_client_info": {
+          "package_name": "com.example.test_image_picker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0cbCrllQbTYZ-EeoioerqMTVfxVk7YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
